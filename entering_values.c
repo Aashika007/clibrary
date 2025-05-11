@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main() {
+
+ int main() 
+ {
     char name[50], gender;
     int roll;
 
